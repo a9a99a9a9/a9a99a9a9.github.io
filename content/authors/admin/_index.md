@@ -69,21 +69,23 @@ work:
     date_start: 2023-10-01
     date_end: 2023-12-31
     summary: |2-
-      Responsibilities include:
       - 컨텐츠 기획
       - 영상 기획
       - 촬영 보조
-  - position: Backend Software Engineer
-    company_name: X
+    button:
+      text: '스토커즈'
+      url: 'https://www.youtube.com/@STalkers'
+  - position: CEO
+    company_name: 오리드
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-09-01
+    date_end: 
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      독서라는 문화를 기반으로한 의류 브랜드
+    button:
+      text: 'Ohread'
+      url: 'https://www.instagram.com/ohread_official/'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
