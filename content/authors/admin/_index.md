@@ -95,12 +95,12 @@ skills:
       - name: C Language
         description: ''
         percent: 80
-        icon: assets/media/icons/c.svg
+        icon: '.github/assets/media/icons/c.svg'
       - name: Kotlin
         description: ''
         percent: 100
         icon: assets/media/icons/k.html
-      - name: CapCut
+      - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
