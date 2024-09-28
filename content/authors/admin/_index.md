@@ -95,11 +95,11 @@ skills:
       - name: C Language
         description: ''
         percent: 80
-        icon: assets/media/icons/c.svg/
+        icon: assets/media/icons/smallc.svg
       - name: Kotlin
         description: ''
         percent: 100
-        icon: assets/media/icons/k.html/
+        icon: assets/media/icons/k.html
       - name: SQL
         description: ''
         percent: 40
