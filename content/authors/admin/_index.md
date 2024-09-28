@@ -37,31 +37,29 @@ profiles:
     
 
 interests:
-  - Mobile programming
-  - Artificial intelligence
-  - Marketing
+  - 모바일 프로그래밍
+  - 빅데이터
+  - 마케팅
 
 education:
-  - area: International Engineering and Science
-    institution: Jeonbuk University
+  - area: 국제이공학부
+    institution: 전북대학교
     date_start: 2019-03-01
     date_end: 2026-02-01
     summary: |
-      아직 논문을 쓴 적이 없습니다 
+      특히, 인공지능(AI)과 사물인터넷(lot)등으로 대표되는 4차 산업혁명의 물결 속에서 복잡하고 다양한 이공학의 문제들이 제기되고 있는데 이를 심도있고 정확한 분석을 하고 관련된 다양한 국제적인 이슈들을 공부하는 학제간 융합의 커리큘럼을 제공하는 것이 특징입니다. 이러한 학과의 목적에 부합하기 위하여 학과의 모든 강의가 100% 영어로 진행되며 국제이공학부 졸업생들은 향후 미래형 글로벌 인재로 양성되며 대학교수, 연구원, 창업자, 기술 기획자로서의 활약이 기대됩니다.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-11
-    date_end: 2020-12-31
+      text: '국제이공학부 홈페이지'
+      url: 'https://gfc.jbnu.ac.kr/gfc/7760/subview.do'
+  - aarea: 컴퓨터인공지능학부
+    institution: 전북대학교
+    date_start: 2019-03-01
+    date_end: 2026-02-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      컴퓨터공학은 정보와 계산의 이론적 기반을 바탕으로 데이터 처리, 컴퓨터 하드웨어 설계, 컴퓨터를 포함한 다양한 디바이스상에서 동작되는 소프트웨어 및 인공지능 기술을 연구하는 분야로, AI시대를 선도하고 미래 지능정보사회, 초연결사회, 4차산업혁명을 실현하기 위한 현재 그리고 미래 산업에 필요한 핵심 분야입니다. 컴퓨터공학은 소프트웨어 및 인터넷 산업을 넘어서, 전통적인 제조업 등 모든 산업 분야에 데이터와 소프트웨어 기반으로 혁신할 수 있는 범용적인 메타 분야라고 할 수 있을 만큼, 컴퓨터공학을 전공한 디지털 인재들이 사회 전반에서 필요로 하고 있습니다. 컴퓨터인공지능학부에서는 세계적인 컴퓨터공학 교육과정 및 산업체 수요를 적극 반영하여, 9대 역량인 5C-GIANT (전공핵심역량, 코딩역량, 자기주도역량, 융합역량, 소통역량, 글로벌역량, 현장실무역량, AI역량, 신기술역량)을 도출하였고, 이들 역량을 고루 갖추면서 국내를 넘어 세계적으로 경쟁력있는 인재를 육성하기 위해서 교육체제를 새롭게 개편하는 등 심혈을 기울이고 있습니다. 현재 우리 컴퓨터인공지능학부는 세계적으로 경쟁력있는 24명의 우수한 교수진으로 구성되어 있으며, 최근 신기술을 반영하여 인공지능, IoT, 클라우드/빅데이터, 블록체인/정보보호 심화 전공 (트랙)을 운영하고 있습니다. 또한 대학원 과정에서는, 인공지능(자연어처리,컴퓨터비전), 데이터과학, 정보검색, 컴퓨터그래픽스, 정보보호/암호, 인간과 컴퓨터 상호작용, 컴퓨터네트워크, 데이터베이스, 이동컴퓨팅, 소프트웨어공학 등 분야를 선도하는 연구를 수행하고, 인프라 및 연구역량을 지속적으로 강화하면서, 컴퓨터공학 전반에 필요한 고급 전문 인력을 양성하고 있습니다.
+    button:
+      text: '컴퓨터인공지능학부 홈페이지'
+      url: 'https://csai.jbnu.ac.kr/csai/index.do'
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
