@@ -52,9 +52,9 @@ interests:
   - Marketing
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Global 
     institution: Jeonbuk University
-    date_start: 2019-03ㅎ-01
+    date_start: 2019-03-01
     date_end: 2026-02-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
