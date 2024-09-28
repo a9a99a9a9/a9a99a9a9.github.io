@@ -60,26 +60,19 @@ education:
     button:
       text: '컴퓨터인공지능학부 홈페이지'
       url: 'https://csai.jbnu.ac.kr/csai/index.do'
-  - area: 세원고등학교
-    institution: 고등학교
-    date_start: 2015-03-01
-    date_end: 2018-02-21
-    summary: |
-      
-      이력:
-      - 2016년 학생회장
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: 영상 기획자
+    company_name: 스토커즈
+    company_url: 'https://www.youtube.com/@STalkers'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-10-01
+    date_end: 2023-12-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 컨텐츠 기획
+      - 영상 기획
+      - 촬영 보조
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
