@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: 대학생
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
