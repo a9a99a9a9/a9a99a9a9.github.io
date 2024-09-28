@@ -11,7 +11,7 @@ last_name: Hwang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -52,12 +52,12 @@ interests:
   - Marketing
 
 education:
-  - area: Global 
+  - area: International Engineering and Science
     institution: Jeonbuk University
     date_start: 2019-03-01
     date_end: 2026-02-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      아직 논문을 쓴 적이 없습니다. 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+안녕하세요. 저는 황도훈입니다. 전북대학교에서 국제이공학부, 컴퓨터인공지능학부를 복수 전공하고 있습니다. 아직 많은 프로그램 프로젝트를 하진 않았지만, 다양한 경험을 가지고 있습니다.
