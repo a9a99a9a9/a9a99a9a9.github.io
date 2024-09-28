@@ -2,12 +2,9 @@
 # Display name
 title: 황도훈
 
-# Name pronunciation (optional)
-name_pronunciation: Hwang Dohoon
-
 # Full name (for SEO)
-first_name: Dohoon
-last_name: Hwang
+first_name: 도훈
+last_name: 황
 
 # Status emoji
 status: 
