@@ -99,7 +99,7 @@ skills:
       - name: Kotlin
         description: ''
         percent: 100
-        icon: assets/media/icons/k.html
+        icon: .github/assets/media/icons/k.html
       - name: SQL
         description: ''
         percent: 40
@@ -108,15 +108,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Running
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Reading
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Swimming
         description: ''
         percent: 80
         icon: camera
