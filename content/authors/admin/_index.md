@@ -95,7 +95,7 @@ skills:
       - name: C 
         description: ''
         percent: 80
-        icon: fa-solid fa-c
+        icon: <i class="fa-solid fa-c"></i>
       - name: Data Science
         description: ''
         percent: 100
