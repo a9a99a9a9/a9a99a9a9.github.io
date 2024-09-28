@@ -92,10 +92,10 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C 
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: <i class="fa-solid fa-c"></i>
       - name: Data Science
         description: ''
         percent: 100
@@ -161,6 +161,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## SUMMARY
+## ABOUT
 
 안녕하세요. 저는 황도훈입니다. 전북대학교에서 국제이공학부, 컴퓨터인공지능학부를 복수 전공하고 있습니다. 아직 많은 프로그램 프로젝트를 하진 않았지만, 다양한 경험을 가지고 있습니다.
