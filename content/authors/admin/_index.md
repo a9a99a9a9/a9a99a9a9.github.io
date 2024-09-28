@@ -95,7 +95,7 @@ skills:
       - name: C Language
         description: ''
         percent: 80
-        icon: <i class="fa-solid fa-circle-c"></i>
+        icon: <svg src="{{ .Site.Params.mediaDir }}/icons/circle-c.svg" alt="C Language" />'
       - name: Kotlin
         description: ''
         percent: 100
