@@ -12,15 +12,18 @@ baseURL: 'https://example.com/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: ko
+
+defaultContentLanguage: ko  # 기본 언어를 한국어로 설정
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-languages:
-  - language: ko
+languages:  # 언어 목록 추가
+  en:  # 영어 설정
+    languageName: English
     weight: 1
-  - language: en
+  ko:  # 한국어 설정 추가
+    languageName: 한국어
     weight: 2
 
 ############################

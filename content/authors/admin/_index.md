@@ -24,7 +24,7 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: JBNU
+  - name: 전북대학교
     url: https://www.jbnu.ac.kr/kor/C
 
 # Social network links
@@ -33,8 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:tomboy0508@naver.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/dohoon_i/
   - icon: brands/github
@@ -52,7 +50,7 @@ education:
     date_start: 2019-03-01
     date_end: 2026-02-01
     summary: |
-      아직 논문을 쓴 적이 없습니다. 
+      아직 논문을 쓴 적이 없습니다 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
