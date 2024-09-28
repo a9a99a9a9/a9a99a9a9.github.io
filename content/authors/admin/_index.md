@@ -49,9 +49,9 @@ education:
     summary: |
       특히, 인공지능(AI)과 사물인터넷(lot)등으로 대표되는 4차 산업혁명의 물결 속에서 복잡하고 다양한 이공학의 문제들이 제기되고 있는데 이를 심도있고 정확한 분석을 하고 관련된 다양한 국제적인 이슈들을 공부하는 학제간 융합의 커리큘럼을 제공하는 것이 특징입니다. 이러한 학과의 목적에 부합하기 위하여 학과의 모든 강의가 100% 영어로 진행되며 국제이공학부 졸업생들은 향후 미래형 글로벌 인재로 양성되며 대학교수, 연구원, 창업자, 기술 기획자로서의 활약이 기대됩니다.
     button:
-      text: '국제이공학부 홈페이지'
+      text: '국제이공학부 소개'
       url: 'https://gfc.jbnu.ac.kr/gfc/7760/subview.do'
-  - aarea: 컴퓨터인공지능학부
+  - area: 컴퓨터인공지능학부
     institution: 전북대학교
     date_start: 2019-03-01
     date_end: 2026-02-01
@@ -60,17 +60,14 @@ education:
     button:
       text: '컴퓨터인공지능학부 홈페이지'
       url: 'https://csai.jbnu.ac.kr/csai/index.do'
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 세원고등학교
+    institution: 고등학교
+    date_start: 2015-03-01
+    date_end: 2018-02-21
     summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      이력:
+      - 2016년 학생회장
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
