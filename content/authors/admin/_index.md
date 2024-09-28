@@ -10,7 +10,7 @@ first_name: Dohoon
 last_name: Hwang
 
 # Status emoji
-status:
+status: 
   icon: 💻
 
 # Is this the primary user of the site?
@@ -58,7 +58,7 @@ education:
       url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
+    date_start: 2016-01-11
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
