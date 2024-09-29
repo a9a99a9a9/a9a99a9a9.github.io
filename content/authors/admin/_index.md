@@ -93,18 +93,20 @@ skills:
   - name: Technical Skills
     items:
       - name: C Language
-      description: ''
-      percent: 80
-      icon_pack: fab
-      icon: c
+        description: ''
+        percent: 80
+        icon_pack: fab
+        icon: c
       - name: Kotlin
         description: ''
         percent: 100
-        icon: assets/media/icons/smallk.svg
+        icon_pack: fab
+        icon: k
       - name: SQL
         description: ''
         percent: 40
-        icon: circle-stack
+        icon_pack: fab
+        icon: s
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
