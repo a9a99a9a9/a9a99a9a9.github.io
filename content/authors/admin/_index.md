@@ -93,13 +93,14 @@ skills:
   - name: Technical Skills
     items:
       - name: C Language
-        description: ''
-        percent: 80
-        icon: ![SVG Icon](assets/media/icons/smallc.svg)
+      description: ''
+      percent: 80
+      icon_pack: fab
+      icon: c
       - name: Kotlin
         description: ''
         percent: 100
-        icon: ![SVG Icon](assets/media/icons/smallk.svg)
+        icon: assets/media/icons/smallk.svg
       - name: SQL
         description: ''
         percent: 40
