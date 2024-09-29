@@ -11,15 +11,17 @@ abstract: '웹 서비스 구조에 대한 이해를 바탕으로 Front-End/Back-
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+
+#내가 샵처리한 것들
+# date: '2030-06-01T13:00:00Z'
+#date_end: '2030-06-01T15:00:00Z'
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
 authors:
-  - 이경수
+  - 이경수 교수님
 
 tags: []
 

@@ -95,18 +95,16 @@ skills:
       - name: C Language
         description: ''
         percent: 80
-        icon_pack: fab
-        icon: Android  # custom 폴더에 있는 아이콘을 사용
+        icon: assets/media/icons/fab/smallc.svg  # custom 폴더에 있는 아이콘을 사용
       - name: Kotlin
         description: ''
         percent: 100
-        icon_pack: custom
-        icon: custom/smallk  # custom 폴더에 있는 아이콘을 사용
+        icon: brands/android  # custom 폴더에 있는 아이콘을 사용
       - name: SQL
         description: ''
         percent: 40
         icon_pack: fab
-        icon: fab fa-android  # Font Awesome 아이콘 사용 (예시: 데이터베이스 아이콘)
+        icon: database  # Font Awesome 아이콘 사용 (예시: 데이터베이스 아이콘)
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
