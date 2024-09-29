@@ -95,17 +95,14 @@ skills:
       - name: C Language
         description: ''
         percent: 80
-        icon_pack: fab
-        icon: c
+        icon: assets/media/icons/smallc
       - name: Kotlin
         description: ''
         percent: 100
-        icon_pack: fab
-        icon: k
+        icon: assets/media/icons/smallk
       - name: SQL
         description: ''
         percent: 40
-        icon_pack: fab
         icon: s
   - name: Hobbies
     color: '#eeac02'
