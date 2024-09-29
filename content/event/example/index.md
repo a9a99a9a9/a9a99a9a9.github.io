@@ -18,9 +18,9 @@ abstract: '웹 서비스 구조에 대한 이해를 바탕으로 Front-End/Back-
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-09-01T00:00:00Z'
 
-authors:
+professor:
   - 이경수 교수님
 
 tags: []
@@ -32,11 +32,11 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+#links:
+# - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
 url_code: 'https://github.com'
 url_pdf: ''
 url_slides: 'https://slideshare.net'

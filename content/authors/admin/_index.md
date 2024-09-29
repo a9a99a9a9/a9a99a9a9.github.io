@@ -103,7 +103,6 @@ skills:
       - name: SQL
         description: ''
         percent: 40
-        icon_pack: fab
         icon: database  # Font Awesome 아이콘 사용 (예시: 데이터베이스 아이콘)
   - name: Hobbies
     color: '#eeac02'

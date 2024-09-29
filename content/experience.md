@@ -1,5 +1,5 @@
 ---
-title: '경험'
+title: '이거 어딨냐'
 date: 2023-10-24
 type: landing
 
@@ -12,6 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
+      tittle: Experence
       username: admin
     design:
       # Hugo date format
