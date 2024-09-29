@@ -95,7 +95,7 @@ skills:
       - name: C Language
         description: ''
         percent: 80
-        icon: assets/media/icons/smallc
+        icon: "assets/media/icons/smallc"
       - name: Kotlin
         description: ''
         percent: 100
