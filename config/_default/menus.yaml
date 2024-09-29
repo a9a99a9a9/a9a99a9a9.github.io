@@ -7,13 +7,13 @@ main:
   - name: About
     url: /
     weight: 10
-  - name: Papers
+  - name: Club
     url: /#papers
     weight: 11
-  - name: Talks
+  - name: Class
     url: /#talks
     weight: 12
-  - name: Experience
+  - name: Experence
     url: experience/
     weight: 20
   - name: Projects
