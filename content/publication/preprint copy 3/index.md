@@ -1,5 +1,5 @@
 ---
-title: "컴퓨터 구조"
+title: "알고리즘"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"

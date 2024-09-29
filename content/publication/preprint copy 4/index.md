@@ -1,5 +1,5 @@
 ---
-title: "컴퓨터 구조"
+title: "소프트웨어 공학"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
