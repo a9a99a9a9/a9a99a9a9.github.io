@@ -1,19 +1,13 @@
 ---
-title: Example Talk
+title: 웹서비스 설계
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+classroom: 웹서비스 설계 LMS
+event_url: https://ieilms.jbnu.ac.kr/mypage/group/groupPage.jsp
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: 공과대학 7호관 
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 웹서비스에 대한 설계의 이해와 실습
+abstract: '웹 서비스 구조에 대한 이해를 바탕으로 Front-End/Back-End 개발자로서의 역량을 기르도록 함'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
