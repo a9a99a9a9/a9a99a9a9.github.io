@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: 수강중인 수업들
 cms_exclude: true
 #url: talk
 

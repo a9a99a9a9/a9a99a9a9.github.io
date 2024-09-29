@@ -95,15 +95,15 @@ skills:
       - name: C Language
         description: ''
         percent: 80
-        icon: "assets/media/icons/custom/smallc"
+        icon: assets/media/icons/ custom/smallc.svg
       - name: Kotlin
         description: ''
         percent: 100
-        icon: assets/media/icons/custom/smallk
+        icon: assets/media/icons/ custom/smallk.svg
       - name: SQL
         description: ''
         percent: 40
-        icon: s
+        icon: sx
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
