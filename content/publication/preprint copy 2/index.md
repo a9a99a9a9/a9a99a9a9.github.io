@@ -1,5 +1,5 @@
 ---
-title: "컴퓨터 구조"
+title: "모바일 프로그래밍"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -30,7 +30,7 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: '/preprint/preprint.pdf'
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'

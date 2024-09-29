@@ -1,5 +1,5 @@
 ---
-title: "모바일 프로그래밍"
+title: "컴퓨터 구조"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
