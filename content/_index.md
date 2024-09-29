@@ -56,7 +56,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
       title: 최근 수행 과제
