@@ -11,7 +11,7 @@ publishDate: "2024-03-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["수강 중"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -45,8 +45,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+수업:
+- 수강중인 수업
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -56,4 +56,4 @@ projects:
 slides: example
 ---
 
-[이전 수업](/publication/conference-paper/)
+[다음 수업](/publication/preprint copy 2/)
