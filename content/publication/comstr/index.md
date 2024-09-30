@@ -1,6 +1,6 @@
 ---
 title: "컴퓨터 구조"
-professor:
+authors:
 - 김찬기
 date: "2024-03-07T00:00:00Z"
 doi: ""
@@ -11,7 +11,7 @@ publishDate: "2024-03-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-class_types: ["수강 중"]
+publication_types: ["수강 중"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -56,4 +56,4 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/algor/) 
+[다른 수업](/publication/algor/) 
