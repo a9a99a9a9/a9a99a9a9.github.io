@@ -59,7 +59,7 @@ sections:
       columns: 3
   - block: collection
     content:
-      title: 최근 수행 과제
+      title: 수업 관련 링크
       text: ""
       filters:
         folders:

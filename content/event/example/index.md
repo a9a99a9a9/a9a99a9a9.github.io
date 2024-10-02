@@ -1,13 +1,13 @@
 ---
-title: 웹서비스 설계
+title: 바다사랑
 
 classroom: 웹서비스 설계 LMS
 event_url: https://ieilms.jbnu.ac.kr/mypage/group/groupPage.jsp
 
-location: 공과대학 7호관 
+location: 공과대학 7호관
 
-summary: 웹서비스에 대한 설계의 이해와 실습
-abstract: '웹 서비스 구조에 대한 이해를 바탕으로 Front-End/Back-End 개발자로서의 역량을 기르도록 함'
+summary: 스킨 스쿠버 동아리
+abstract: 전북대 유일한 스킨 스쿠버 동아리. 주요 활동으로 완산 실내 수영장에서 스킨 스쿠버 연습을 하고, 제주도에서 스쿠버 다이빙 하는 활동이 가장 대표적인 활동입니다.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
