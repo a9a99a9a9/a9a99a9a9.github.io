@@ -1,8 +1,8 @@
 ---
 title: "알고리즘"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- 장재우 교수님
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
