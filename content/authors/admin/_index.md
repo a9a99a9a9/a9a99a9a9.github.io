@@ -35,7 +35,6 @@ profiles:
   - icon: brands/github
     url: https://github.com/a9a99a9a9
     
-number1: 010 - 3895 - 2367
 
 interests:
   - 모바일 프로그래밍
@@ -62,7 +61,6 @@ education:
       text: '컴퓨터인공지능학부 홈페이지'
       url: 'https://csai.jbnu.ac.kr/csai/index.do'
 
-number2: 010 - 3895 - 2367
 
 work:
   - position: 영상 기획자
