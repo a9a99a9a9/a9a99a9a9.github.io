@@ -127,6 +127,7 @@ languages:
   - name: Chinese
     percent: 30
 
+{{< map >}}
 
 
 # Awards.
@@ -164,11 +165,3 @@ languages:
 ## ABOUT
 
 안녕하세요. 저는 황도훈입니다. 전북대학교에서 국제이공학부, 컴퓨터인공지능학부를 복수 전공하고 있습니다. 아직 많은 프로그램 프로젝트를 하진 않았지만, 다양한 경험을 가지고 있습니다.
-
-<iframe 
-  src="https://www.google.co.kr/maps/place/%EC%A0%84%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90+%EC%A0%84%EC%A3%BC%EC%BA%A0%ED%8D%BC%EC%8A%A4/data=!3m1!4b1!4m6!3m5!1s0x35702334621b3bb9:0xd2ef0eee158844e1!8m2!3d35.8468171!4d127.1299221!16s%2Fm%2F025vx2f?hl=ko&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D" 
-  width="600" 
-  height="450" 
-  style="border:0;" 
-  allowfullscreen="" 
-  loading="lazy"></iframe>
