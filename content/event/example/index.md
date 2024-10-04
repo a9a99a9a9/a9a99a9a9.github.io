@@ -1,5 +1,7 @@
 ---
 title: 바다사랑
+authors:
+- 김민준 회장
 
 #event: 바다사랑
 event_url: https://ieilms.jbnu.ac.kr/mypage/group/groupPage.jsp
@@ -20,9 +22,6 @@ abstract: 스킨스쿠버 동아리 바다사랑은 1984년에 창설된 전북�
 
 # Schedule page publish date (NOT talk date).
 date: '2019-03-01T00:00:00Z'
-
-author:
-  - 김민준
 
 tags: []
 
