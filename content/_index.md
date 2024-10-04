@@ -99,6 +99,4 @@ sections:
         css_style: ""
 ---
 
-## 학교 위치
-
 {{< map >}}
