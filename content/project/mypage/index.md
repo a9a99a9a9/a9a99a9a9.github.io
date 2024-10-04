@@ -1,6 +1,6 @@
 ---
 title: Mypage
-date: 2024-09-15
+date: 2024-10-02
 external_link: https://github.com/a9a99a9a9/a9a99a9a9.github.io
 tags:
   - Hugo
