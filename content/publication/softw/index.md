@@ -1,5 +1,5 @@
 ---
-title: "모바일 프로그래밍"
+title: "소프트웨어 공학"
 authors:
 - 정종욱 교수님
 date: "2024-09-01T00:00:00Z"
@@ -60,4 +60,4 @@ projects:
 slides: example
 ---
 
-[다른 수업](/publication/softw/) 
+[다른 수업](/publication/webser/)
