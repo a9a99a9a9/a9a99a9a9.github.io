@@ -20,7 +20,7 @@ publication_short: ""
 abstract: 문제 해결을 위한 알고리즘을 설계하고 알고리즘을 구현할 수 있는 방법을 공부한다.
 
 # Summary. An optional shortened abstract.
-summary: 알고리즘을 다룬다.
+summary: 알고리즘에 대해 공부한다.
 
 tags:
 - 컴퓨터인공지능학부
