@@ -1,6 +1,6 @@
 ---
 title: scikit-learn
-date: 2024-10-05
+date: 2024-10-02
 external_link: https://github.com/scikit-learn/scikit-learn
 tags:
   - Hugo
