@@ -13,9 +13,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: '전북대학교'
+    description: '전북대학교 국제이공학부 및 컴퓨터인공지능학부에 재학 중인 황도훈의 포트폴리오 사이트입니다.'
+    twitter: ''
     keywords:
      - 황도훈
      - 전북대
@@ -43,12 +43,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "HWANG DOHOON"
+      text: "황도훈 - 전북대학교"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} 황도훈. 이 사이트는 {license}에 따라 사용이 허가되었습니다.'
     license:
       enable: true
       allow_derivatives: false
