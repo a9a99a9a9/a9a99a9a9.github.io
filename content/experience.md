@@ -30,3 +30,7 @@ sections:
       title: Languages
       username: admin
 ---
+
+## 학교 위치
+
+{{< map >}}

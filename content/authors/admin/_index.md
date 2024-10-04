@@ -127,10 +127,6 @@ languages:
   - name: Chinese
     percent: 30
 
-
-
-
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -166,6 +162,3 @@ languages:
 ## ABOUT
 
 안녕하세요. 저는 황도훈입니다. 전북대학교에서 국제이공학부, 컴퓨터인공지능학부를 복수 전공하고 있습니다. 아직 많은 프로그램 프로젝트를 하진 않았지만, 다양한 경험을 가지고 있습니다.
-
-
-{{< map >}}
