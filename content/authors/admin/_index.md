@@ -127,6 +127,8 @@ languages:
   - name: Chinese
     percent: 30
 
+{{< map >}}
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
