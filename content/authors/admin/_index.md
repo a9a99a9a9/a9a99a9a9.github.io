@@ -99,7 +99,7 @@ skills:
       - name: Kotlin
         description: ''
         percent: 100
-        icon: brands/android  
+        icon: ![C Icon](assets/media/fab/c-solid.svg)
       - name: SQL
         description: ''
         percent: 40
