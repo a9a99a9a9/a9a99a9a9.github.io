@@ -1,5 +1,5 @@
 ---
-title: 수강중인 수업들
+title: 동아리
 cms_exclude: true
 #url: talk
 
