@@ -1,7 +1,7 @@
 ---
-title: 바다사랑
+title: 동아리1
 
-classroom: 웹서비스 설계 LMS
+event: 바다사랑1
 event_url: https://ieilms.jbnu.ac.kr/mypage/group/groupPage.jsp
 
 location: 동아리 전용관 2층
