@@ -5,6 +5,8 @@ authors:
 date: "2024-09-01T00:00:00Z"
 doi: ""
 
+location: 공과대학 3호관 311
+
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2024-03-0  1T00:00:00Z"
 
