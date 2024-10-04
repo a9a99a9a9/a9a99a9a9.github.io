@@ -1,7 +1,7 @@
 ---
 title: 바다사랑
 
-event: 바다사랑1
+#event: 바다사랑
 event_url: https://ieilms.jbnu.ac.kr/mypage/group/groupPage.jsp
 
 location: 동아리 전용관 2층
@@ -13,9 +13,9 @@ abstract: 전북대 유일한 스킨 스쿠버 동아리. 주요 활동으로 �
 #   End time can optionally be hidden by prefixing the line with `#`.
 
 #내가 샵처리한 것들
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+#date: '2030-06-01T13:00:00Z'
+#date_end: '2030-06-01T15:00:00Z'
+#all_day: false
 
 # Schedule page publish date (NOT talk date).
 # Year of establishment: '2024-09-01T00:00:00Z'
@@ -23,7 +23,7 @@ all_day: false
 author:
   - 김민준
 
-tags: [동아리, 스킨스쿠버]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
