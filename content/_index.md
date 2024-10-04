@@ -77,7 +77,6 @@ sections:
     design:
       view: article-grid
       columns: 1
- 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
@@ -99,3 +98,7 @@ sections:
         css_class: "bg-primary-700"
         css_style: ""
 ---
+
+## 학교 위치
+
+{{< map >}}
