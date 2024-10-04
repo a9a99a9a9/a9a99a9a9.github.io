@@ -31,7 +31,7 @@ links:
 - name: LMS
   url: https://ieilms.jbnu.ac.kr/mypage/group/groupPage.jsp
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/a9a99a9a9/Jbnu-algo-hw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
