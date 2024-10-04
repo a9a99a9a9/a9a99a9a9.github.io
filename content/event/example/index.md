@@ -18,7 +18,7 @@ abstract: 전북대 유일한 스킨 스쿠버 동아리. 주요 활동으로 �
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-# Year of establishment: '2024-09-01T00:00:00Z'
+date: '2019-03-01T00:00:00Z'
 
 author:
   - 김민준
