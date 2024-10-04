@@ -34,7 +34,6 @@ links:
   url: https://ieilms.jbnu.ac.kr/mypage/group/groupPage.jsp
 url_pdf: ''
 url_code: 'https://github.com/niraaah/24SEproject'
-url_ppt:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
