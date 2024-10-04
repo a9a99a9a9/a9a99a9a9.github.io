@@ -16,6 +16,14 @@ marketing:
     org_name: ''
     description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
     twitter: 'GetResearchDev'
+    keywords:
+     - 황도훈
+     - 전북대
+     - 전북대 황도훈
+     - 국제이공학부
+     - 국이공
+     - 포트폴리오
+     - 프로그래밍 프로젝트
   analytics:
     google_analytics: ''
     baidu_tongji: ''
