@@ -4,7 +4,7 @@ title: 바다사랑
 classroom: 웹서비스 설계 LMS
 event_url: https://ieilms.jbnu.ac.kr/mypage/group/groupPage.jsp
 
-location: 공과대학 7호관
+location: 동아리 전용관 2층
 
 summary: 스킨 스쿠버 동아리
 abstract: 전북대 유일한 스킨 스쿠버 동아리. 주요 활동으로 완산 실내 수영장에서 스킨 스쿠버 연습을 하고, 제주도에서 스쿠버 다이빙 하는 활동이 가장 대표적인 활동입니다.
@@ -18,10 +18,10 @@ abstract: 전북대 유일한 스킨 스쿠버 동아리. 주요 활동으로 �
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-09-01T00:00:00Z'
+Year of establishment: '2024-09-01T00:00:00Z'
 
-professor:
-  - 이경수 교수님
+author:
+  - 정민준
 
 tags: []
 
