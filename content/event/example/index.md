@@ -42,6 +42,13 @@ url_code: 'https://github.com'
 url_pdf: ''
 url_slides: 'https://slideshare.net'
 url_video: 'https://youtube.com'
+button:
+      text: '바다사랑 소개'
+      url: 'http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=1&no=5'
+button:
+      text: '바다사랑 카페'
+      url: 'https://cafe.daum.net/scubapro'
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
