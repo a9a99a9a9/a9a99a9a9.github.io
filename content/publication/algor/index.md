@@ -37,7 +37,7 @@ url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://images.unsplash.com/photo-1624555130581-1d9cca783bc0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXJsfGVufDB8fDB8fHww)'
   focal_point: ""
   preview_only: false
 
