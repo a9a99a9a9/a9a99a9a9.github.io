@@ -57,4 +57,4 @@ projects:
 slides: example
 ---
 
-[다른 수업](/publication/algor/) 
+[다른 수업](/publication/comstr/) 
