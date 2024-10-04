@@ -1,5 +1,5 @@
 ---
-title: '이거 어딨냐'
+title: '포트폴리오'
 date: 2023-10-24
 type: landing
 
