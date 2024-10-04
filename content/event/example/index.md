@@ -55,7 +55,8 @@ links:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "example-slide.md"
+title: "바다사랑 이미지 슬라이드"
+slides: "example-slide" 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
