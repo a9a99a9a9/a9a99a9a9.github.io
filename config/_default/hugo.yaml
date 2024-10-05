@@ -63,4 +63,4 @@ security:
 sitemap:
   _merge: deep
 params:
-  og_image: "images/11.JPG"
+  og_image: "11.JPG"
