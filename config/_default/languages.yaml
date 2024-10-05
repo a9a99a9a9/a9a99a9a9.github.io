@@ -34,7 +34,7 @@ ko:
       name: 논코딩 프로젝트
       url: nocoding/
       weight: 2
-    - name: 위치
+    - name: 찾아오는 길
       url: location/
       weight: 40
 

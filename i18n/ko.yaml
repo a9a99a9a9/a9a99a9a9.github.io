@@ -117,6 +117,9 @@
 - id: present
   translation: 현재
 
+- id: experience
+  translation: 경험
+
 # Pages widget
 
 - id: more_pages
@@ -154,7 +157,7 @@
 # Publication/Event details
 
 - id: abstract
-  translation: 초록
+  translation: 요약
 
 - id: publication
   translation: 발행기관
