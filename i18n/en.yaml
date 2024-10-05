@@ -121,6 +121,8 @@
 - id: seconds
   translation: Seconds
 
+- id: ddate
+  translation: 가입 날짜
 # Accomplishments widget
 
 - id: see_certificate

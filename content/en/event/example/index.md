@@ -1,15 +1,15 @@
 ---
-title: 바다사랑
+title: Love of the sea (바다사랑)
 authors:
-- 김민준 회장
+- 김민준 Chairman
 
 #event: 바다사랑
 event_url: https://ieilms.jbnu.ac.kr/mypage/group/groupPage.jsp
 
-location: 동아리 전용관 2층
+location: 2nd floor of the club hall
 
-summary: 스킨 스쿠버 동아리
-abstract: 스킨스쿠버 동아리 바다사랑은 1984년에 창설된 전북대학교의 유일한 스킨 다이빙과 스쿠버 다이빙 하는 수중활동 레저 스포츠 동아리로써 39년의 역사와 무사고를 자랑하고 있습니다. 물을 좋아하는 누구라면 한 번쯤 해보고 싶은 스포츠 ‘스킨스쿠버 다이빙’, 다이빙을 해보고 싶은 학생들이 모여, 스킨스쿠버 활동을 시작하고 장비를 하나씩 구매하다 보니 수많은 장비를 구비하고, 수많은 강사를 배출한 지금의 ‘바다사랑’이 되었습니다. 바다사랑에서는 자격증을 취득하여 스쿠버다이빙을 시작하는 학우들을 응원하고, 열정적인 재학생에게 강사와 같은 전문적인 길로 나아갈 수 있도록 방향을 제시하고 있습니다. 동아리 활동을 통해 지구의 70% 바다를 탐험하는 새로운 경험을 제공하고 이를 통해 학업 스트레스 해소, 단체 활동을 통한 리더십 함양과 같은 긍정적인 영향을 주고 있습니다.
+summary: Scuba club
+abstract: The Skin Scuba Club Sea Love is the only underwater leisure sports club in Chonbuk National University founded in 1984 that boasts 39 years of history and accident-free experience. A sport that anyone who loves water would like to do at least once, 'Skin Scuba Diving', and students who want to try diving gathered to start their skin scuba activities and purchase equipment one by one, and it has become the 'Sea Love' that has numerous equipment and produced numerous instructors. Sea Love supports students who are starting scuba diving by obtaining a certificate, and offers directions to passionate students to take professional paths such as instructors. Through club activities, it provides a new experience of exploring 70% of the earth's oceans, which has positive effects such as relieving academic stress and fostering leadership through group activities.
 
 
 # Talk start and end times.
@@ -21,7 +21,7 @@ abstract: 스킨스쿠버 동아리 바다사랑은 1984년에 창설된 전북�
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-date: '2019-03-01T00:00:00Z'
+ddate: '2019-03-01T00:00:00Z'
 
 tags: []
 
@@ -42,10 +42,10 @@ image:
 #url_slides: 'https://slideshare.net'
 #url_video: 'https://youtube.com'
 links:
-- name: 바다사랑 소개
+- name: about Love of the sea (바다사랑)
   url: 'http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=1&no=5'
   links:
-- name: 바다사랑 카페
+- name: Love of the sea (바다사랑) cafe
   url: 'https://cafe.daum.net/scubapro'
 
 
@@ -65,9 +65,9 @@ projects:
   - example
 ---
 
-활동 및 행사 : 
+Activities and Events: 
 
-- 스쿠버다이빙을 하기 위해서 제주도 혹은 해외로 이동해야 하므로 가장 큰 동아리 활동은 방학에 이루어지고 있습니다.
-- 여름방학 기간인 6-8월에는 우리나라의 아름다운 해양 생물들을 관찰할 수 있는 제주도에서 하계 투어를 진행하게 됩니다. 이때 낮에 다이빙 교육과 투어를 끝마치고 나면, 제주도의 다양한 놀거리들을 즐기며 5박 6일 혹은 6박 7일간의 투어를 진행합니다.
-- 겨울방학에는 해외에서 다이빙을 진행합니다. 필리핀 보홀, 인도네시아 발리 등의 다양한 다이빙 포인트에서 다이빙을 즐길 수 있습니다. 투어 전반에 걸쳐 다이빙 뿐만 아니라 서핑, 호핑투어와 같은 다양한 해양 레져를 즐기기도 합니다.
-- 학기 중에는 이러한 스쿠버다이빙 투어에 앞서 해양스포츠 전반에 대해 알 수 있는 이론 교육과 설명회, 스쿠버다이빙과 다른 매력이 있는 프리다이빙 체험, 스쿠버다이빙 교육 체험등을 학기중에 진행하고 있습니다.
+- The biggest club activity takes place during the vacation because you have to travel to Jeju Island or overseas to scuba dive.
+- During the summer vacation, from June to August, we will have a summer tour on Jeju Island, where you can observe Korea's beautiful marine life. Then, after completing diving education and tours during the day, we will go on a 5-night, 6-day or 6-night, 7-day tour, enjoying various things to do on Jeju Island.
+- During winter vacation, you can enjoy diving abroad. You can enjoy diving at various diving points in Vauxhall, Philippines, Bali, Indonesia, and more. Throughout the tour, you can enjoy not only diving, but also various marine leisure activities such as surfing and hopping tours.
+- During the semester, prior to this scuba diving tour, theoretical education and briefing sessions to learn about marine sports in general, free diving experience with scuba diving and other charms, and scuba diving education experience are held during the semester.
