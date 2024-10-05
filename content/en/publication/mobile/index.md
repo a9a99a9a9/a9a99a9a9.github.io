@@ -59,4 +59,4 @@ projects:
 slides: example
 ---
 
-[another class](/publication/softw/) 
+

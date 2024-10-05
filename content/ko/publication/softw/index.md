@@ -59,4 +59,4 @@ projects:
 slides: example
 ---
 
-[다른 수업](/publication/webser/)
+

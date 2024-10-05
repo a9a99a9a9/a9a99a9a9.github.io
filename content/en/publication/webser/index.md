@@ -62,4 +62,4 @@ projects:
 slides: example
 ---
 
-[another class](/publication/algor/)
+

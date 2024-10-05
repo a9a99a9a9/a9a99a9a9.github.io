@@ -59,4 +59,3 @@ projects:
 slides: example
 ---
 
-[another class](/publication/webser/)
