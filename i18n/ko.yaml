@@ -98,6 +98,9 @@
 
 # About widget
 
+- id: about
+  translation: 소개
+
 - id: interests
   translation: 관심분야
 
