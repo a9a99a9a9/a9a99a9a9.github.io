@@ -5,6 +5,74 @@
 # Default language
 ko:
   languageCode: ko
+  contentDir: content/ko
+  title: 황도훈
+  params:
+    description: 황도훈의 포트폴리오
+  menus:
+    main:
+    - name: 소개
+      url: /
+      weight: 10
+    - name: 수업
+      url: /#papers
+      weight: 11
+    - name: 동아리
+      url: /#talks
+      weight: 12
+    - name: 경력
+      url: experience/
+      weight: 20
+    - name: 프로젝트
+      weight: 30
+      hasChildren: true
+    - parent: 프로젝트
+      name: 코딩 프로젝트
+      url: projects/
+      weight: 1
+    - parent: 프로젝트
+      name: 논코딩 프로젝트
+      url: nocoding/
+      weight: 2
+    - name: 위치
+      url: location/
+      weight: 40
+
+
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: Hwang Dohoon
+  params:
+    description: Hwang Dohoon's Portfolio
+  menus:
+  main:
+    - name: About
+      url: /
+      weight: 10
+    - name: Class
+      url: /#papers
+      weight: 11
+    - name: Club
+      url: /#talks
+      weight: 12
+    - name: Experence
+      url: experience/
+      weight: 20
+    - name: Projects
+      weight: 30
+      hasChildren: true
+    - parent: Projects
+      name: coding projects
+      url: projects/
+      weight: 1
+    - parent: Projects
+      name: nocoding projects
+      url: nocoding/
+      weight: 2
+    - name: Location
+      url: location/
+      weight: 40
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
