@@ -8,6 +8,8 @@ appearance:
   mode: system
   color: emerald
 
+og_image: "/images/11.JPG" 
+
 # SEO
 marketing:
   seo:
@@ -67,5 +69,3 @@ features:
   privacy_pack:
     enable: false
 
-og_image:
-  image: images/11.JPG
