@@ -1,11 +1,11 @@
 ---
-title: "소프트웨어 공학"
+title: "software engineering"
 authors:
-- 정종욱 교수님
+- 정종욱 Professor
 date: "2024-09-01T00:00:00Z"
 doi: ""
 
-location: 공과대학 7호관 532호
+location: Engineering College Building No. 7 532
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2024-03-0  1T00:00:00Z"
@@ -13,19 +13,19 @@ location: 공과대학 7호관 532호
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-class_types: ["수강 중"]
+class_types: ["Taking a course"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: 1. 소프트웨어 개발 주기 이해 - 소프트웨어 개발 주기와 공학적 접근 방법을 이해하고, 요구사항 분석, 설계, 구현, 테스트, 배포 및 유지보수 단계를 포괄적으로 학습한다. 2. 소프트웨어 요구사항 관리 - 요구사항의 수집, 분석, 문서화, 추적 및 관리 기법을 학습하여 효율적이고 명확한 요구사항 정의의 중요성을 이해하고 실제 프로젝트에 적용한다. 3. 소프트웨어 설계 기술 - 소프트웨어 설계의 다양한 기법과 원칙에 대해 학습하고, 소프트웨어 아키텍처의 중요성과 올바른 설계 결정이 전체 개발 프로세스에 미치는 영향을 이해한다. 4. 소프트웨어 테스트 - 테스트 기법, 테스트 케이스 작성, 오류 추적 및 수정 등 소프트웨어 품질 향상을 위한 테스트 기법과 전략을 배우고, 실제 프로젝트에서 테스트 수행 능력을 향상시킨다. 5. 소프트웨어 프로젝트 관리 - 프로젝트 계획, 일정 관리, 리스크 관리, 팀 협업 등 소프트웨어 프로젝트 관리 기술을 습득하여 프로젝트의 성공적인 완수를 목표로 한다. 6. 실무적인 소프트웨어 프로젝트 경험 - 수강생들은 팀 프로젝트를 통해 실제 소프트웨어 개발 경험을 쌓고, 현업에서 요구되는 협업 능력과 문제 해결 능력을 향상시킨다.
+abstract: 1. Understand the software development cycle - Understand the software development cycle and engineering approach, and comprehensively learn the requirements analysis, design, implementation, testing, deployment and maintenance steps. 2. Software Requirements Management - Learn the techniques for collecting, analyzing, documenting, tracking and managing requirements to understand the importance of defining efficient and clear requirements and apply them to real projects. 3. Software Design Techniques - Learn about the various techniques and principles of software design, understand the importance of software architecture and the impact of correct design decisions on the entire development process. 4. Software Test - Learn test techniques and strategies to improve software quality, such as test techniques, test case making, error tracking and correcting, and improve test performance on real projects. 5. Software Project Management - By acquiring software project management skills such as project planning, schedule management, risk management, and team collaboration, it aims to complete the project successfully. 6. Practical Software Project Experience - Students gain actual software development experience through team projects and improve collaboration skills and problem solving skills required in the field.
 
 # Summary. An optional shortened abstract.
-summary: 소프트웨어  개발 주기 이해, 소프트웨어 요구사항 관리, 소프트웨어 설계, 소프트웨어 테스트, 소프트웨어 프로젝트 관리에 대해 배우고 실무적인 소프트웨어 프로젝트를 경험한다.
+summary: Learn about understanding software development cycles, managing software requirements, designing software, testing software, and managing software projects and experience practical software projects.
 
 tags:
-- 컴퓨터인공지능학부
+- Department of Computer and Artificial Intelligence
 
 featured: true
 
@@ -59,4 +59,4 @@ projects:
 slides: example
 ---
 
-[다른 수업](/publication/webser/)
+[another class](/publication/webser/)

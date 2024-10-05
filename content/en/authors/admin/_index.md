@@ -162,6 +162,6 @@ languages:
 
 ## ABOUT
 
-안녕하세요. 저는 황도훈입니다. 전북대학교에서 국제이공학부, 컴퓨터인공지능학부를 복수 전공하고 있습니다. 아직 많은 프로그램 프로젝트를 하진 않았지만, 다양한 경험을 가지고 있습니다.
+Hello, I'm Hwang Do-hoon. I am majoring in international engineering and computer artificial intelligence at Chonbuk National University. I haven't done many program projects yet, but I have various experiences.
 
 010 - 3895 - 2367

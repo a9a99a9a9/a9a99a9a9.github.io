@@ -1,11 +1,11 @@
 ---
-title: "웹서비스 설계"
+title: "Web Service Design"
 authors:
-- 이경수 교수님
+- 이경수 Professor
 date: "2024-09-01T00:00:00Z"
 doi: ""
 
-location: 공과대학 7호관 532호
+location: Engineering College Building No. 7 532
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2024-03-0  1T00:00:00Z"
@@ -13,19 +13,19 @@ location: 공과대학 7호관 532호
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-class_types: ["수강 중"]
+class_types: ["Taking a course"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: 1. 웹 서비스 구조에 대한 이해를 바탕으로 Front-End/ Back-End 개발자로서의 역량을 기르도록 함. 2. AGI (Artificial General Intelligence) 시대에 맞춰 이를 활용한 개발 역량을 기르도록 함. 3. Back-End의 구조와 HTTP 통신에 대한 이해를 기반으로 REST API를 개발/활용하는 역량을 기르도록 함. 4. Front-End/ Back-End의 여러 프레임워크에 대한 이해를 바탕으로, 학생 본인만의 개발 역량을 기르도록 함
+abstract: 1. Develop your capabilities as a front-end/back-end developer based on your understanding of the web service structure. 2. Develop development capabilities using this in line with the era of artistic general intelligence (AGI). 3. Development capabilities to develop and utilize REST APIs based on the understanding of the structure of the back-end and HTTP communication. 4. Develop students' own development capabilities based on their understanding of the various frameworks of the front-end/back-end
 
 # Summary. An optional shortened abstract.
-summary: 웹 서비스 구조에 대한 이해를 바탕으로 Front-End/ Back-End 개발자로서의 역량을 기르도록 함.
+summary: Build your capabilities as a front-end/back-end developer based on your understanding of the web service structure.
 
 tags:
-- 컴퓨터인공지능학부
+- Department of Computer and Artificial Intelligence
 
 featured: true
 
@@ -62,4 +62,4 @@ projects:
 slides: example
 ---
 
-[다른 수업](/publication/algor/)
+[another class](/publication/algor/)

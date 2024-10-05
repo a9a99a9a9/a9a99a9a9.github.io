@@ -1,11 +1,11 @@
 ---
-title: "알고리즘"
+title: "Algorithms"
 authors:
-- 장재우 교수님
+- 장재우 Professor
 date: "2024-09-01T00:00:00Z"
 doi: ""
 
-location: 공과대학 6호관 B15
+location: Engineering College Building 6, B15
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2024-03-0  1T00:00:00Z"
@@ -13,19 +13,19 @@ location: 공과대학 6호관 B15
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-class_types: ["수강 중"]
+class_types: ["Taking a course"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: 문제 해결을 위한 알고리즘을 설계하고 알고리즘을 구현할 수 있는 방법을 공부한다.
+abstract: We design algorithms for problem solving and study how they can be implemented.
 
 # Summary. An optional shortened abstract.
-summary: 알고리즘에 대해 공부한다.
+summary: study algorithms.
 
 tags:
-- 컴퓨터인공지능학부
+- Department of Computer and Artificial Intelligence
 
 featured: true
 
@@ -59,4 +59,4 @@ projects:
 slides: example
 ---
 
-[다른 수업](/publication/comstr/) 
+[another class](/publication/comstr/) 

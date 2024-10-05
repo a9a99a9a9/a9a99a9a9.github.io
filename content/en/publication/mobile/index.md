@@ -1,11 +1,11 @@
 ---
-title: "모바일 프로그래밍"
+title: "Mobile programming"
 authors:
-- 강동기 교수님
+- 강동기 Professor
 date: "2024-09-01T00:00:00Z"
 doi: ""
 
-location: 공과대학 7호관 204호
+location: Engineering College No. 7, No. 204
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2024-03-0  1T00:00:00Z"
@@ -13,19 +13,19 @@ location: 공과대학 7호관 204호
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-class_types: ["수강 중"]
+class_types: ["Taking a course"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: 태블릿 및 스마트폰과 같은 모바일 시스템 위에서 동작하는 응용 프로그램을 만들기 위한 과정을 학습합니다. 안드로이드 스튜디오 설치부터 레이아웃, 위젯, 이벤트 관리, 화면 전환, 프래그먼트 등을 연습, 실습합니다. 기말은 팀 프로젝트 발표로 대체 합니다.
+abstract: Learn how to create applications that work on mobile systems such as tablets and smartphones. Practice and practice Android Studio Installation to Layout, Widgets, Event Management, Screen Switching, Fragments, and more. The finals are replaced by team project presentations.
 
 # Summary. An optional shortened abstract.
-summary: 태블릿 및 스마트폰과 같은 모바일 시스템 위에서 동작하는 응용 프로그램을 만들기 위한 과정을 학습합니다.
+summary: Learn the process to create applications that work on mobile systems such as tablets and smartphones.
 
 tags:
-- 컴퓨터인공지능학부
+- Department of Computer and Artificial Intelligence
 
 featured: true
 
@@ -59,4 +59,4 @@ projects:
 slides: example
 ---
 
-[다른 수업](/publication/softw/) 
+[another class](/publication/softw/) 
