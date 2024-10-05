@@ -17,7 +17,7 @@ sections:
         folders:
           - nocoding
     design:
-      view: article-grid
+      view: card
       fill_image: false
       columns: 3
 ---
