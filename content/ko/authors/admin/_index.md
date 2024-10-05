@@ -91,9 +91,9 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 기술
     items:
-      - name: C Language
+      - name: C 언어
         description: ''
         percent: 80
         icon: assets/media/icons/fab/c-solid.svg  
@@ -105,27 +105,27 @@ skills:
         description: ''
         percent: 40
         icon: database
-  - name: Hobbies
+  - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Running
+      - name: 런닝
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Reading
+      - name: 독서
         description: ''
         percent: 100
         icon: cat
-      - name: Swimming
+      - name: 사진찍기
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: 영어
     percent: 80
-  - name: Chinese
+  - name: 중국어
     percent: 30
 
 # Awards.

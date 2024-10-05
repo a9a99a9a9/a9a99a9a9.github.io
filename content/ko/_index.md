@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download resume
+        text: 이력서 다운
         url: uploads/resume.pdf
     design:
       css_class: dark
@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: ' SUMMARY '
+      title: ' 요약 '
       subtitle: ''
       text: |-
         
