@@ -1,6 +1,8 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# [ HWANG DOHOON CV ]([https://github.com/HugoBlox/theme-academic-cv](https://a9a99a9a9.github.io/ko/))
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
+
+<img width="993" alt="무제" src="https://github.com/user-attachments/assets/b710a234-6fde-4fc7-aeba-f9aa96e544d9">
+
 
 The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
