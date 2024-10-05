@@ -168,6 +168,9 @@
 - id: publication_type
   translation: 출판유형
 
+- id: dddate
+  translation: 가입날짜
+
 - id: date
   translation: 날짜
 
