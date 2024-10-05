@@ -1,13 +1,11 @@
 ---
 title: bookstagram
 date: 2023-10-26
-external_link: https://github.com/a9a99a9a9/examplefor1/blob/main/content/blog/_index.md?plain=1
+external_link: https://www.instagram.com/hoons_books/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - instagram
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+독서를 한 후 글을 쓰고, canva를 이용하여 썸네일을 제작함
 
 <!--more-->
