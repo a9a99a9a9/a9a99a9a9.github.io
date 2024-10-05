@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Non Coding'
 date: 2024-05-19
 type: landing
 
@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: 프로젝트
-      text: 수업 중 참여한 프로젝트들
+      text: 논 코딩 프로젝트들
       filters:
         folders:
           - nocoding
