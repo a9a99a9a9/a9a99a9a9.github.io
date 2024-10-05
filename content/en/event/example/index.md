@@ -21,7 +21,7 @@ abstract: The Skin Scuba Club Sea Love is the only underwater leisure sports clu
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-ddate: '2019-03-01T00:00:00Z'
+date: '2019-03-01T00:00:00Z'
 
 tags: []
 
