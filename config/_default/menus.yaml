@@ -20,12 +20,12 @@ main:
     weight: 30
     hasChildren: true
   - parent: Projects
-    name: Projects 1
-    url: project1/
+    name: coding projects
+    url: projects/
     weight: 1
   - parent: Projects
-    name: Projects 2
-    url: project2/
+    name: nocoding projects
+    url: nocoding/
     weight: 2
   - name: Location
     url: location/
