@@ -1,7 +1,7 @@
 ---
-title: booksta
+title: bookstagram
 date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: https://github.com/a9a99a9a9/examplefor1/blob/main/content/blog/_index.md?plain=1
 tags:
   - Hugo
   - Wowchemy
