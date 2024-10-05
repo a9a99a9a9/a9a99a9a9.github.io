@@ -29,4 +29,4 @@ main:
     weight: 2
   - name: 위치
     url: location/
-    weight: 30
+    weight: 40

@@ -15,7 +15,7 @@ baseURL: 'https://201916871.com/'
 
 defaultContentLanguage: ko  # 기본 언어를 한국어로 설정
 hasCJKLanguage: true
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir:ture
 removePathAccents: true
 
 languages:  # 언어 목록 추가
