@@ -7,6 +7,6 @@ tags:
   - C
 ---
 
-선택 정렬의 시간 측정 하기
+To time the selection alignment among algorithms
 
 <!--more-->

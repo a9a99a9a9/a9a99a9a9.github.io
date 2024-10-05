@@ -1,5 +1,5 @@
 ---
-title: muksta
+title: mukstagram
 date: 2024-10-02
 external_link: https://www.instagram.com/muk.company/
 tags:

@@ -96,15 +96,15 @@ skills:
       - name: C 언어
         description: ''
         percent: 80
-        icon: assets/media/icons/fab/c-solid.svg  
+        icon: ![My SVG Icon](/media/icons/fab/smallk.svg)
       - name: Kotlin
         description: ''
         percent: 100
-        icon: ![C Icon](assets/media/fab/c-solid.svg)
+        icon: ![My SVG Icon](/media/icons/fab/smallk.svg)
       - name: SQL
         description: ''
         percent: 40
-        icon: database
+        icon: assets/media/icons/fab/smallc.svg
   - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'

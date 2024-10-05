@@ -1,13 +1,11 @@
 ---
-title: muksta
+title: mukstagram
 date: 2024-10-02
-external_link: https://github.com/a9a99a9a9/a9a99a9a9.github.io
+external_link: https://www.instagram.com/muk.company/
 tags:
-  - Hugo
-  - Markdown
-  - Github
+  - instagram
 ---
 
-Github pages로 개인 페이지 소개 (포폴) 웹사이트 만들기
+Planning and editing videos with food themes.
 
 <!--more-->

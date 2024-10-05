@@ -8,6 +8,6 @@ tags:
   - Github
 ---
 
-Github pages로 개인 페이지 소개 (포폴) 웹사이트 만들기
+Create a personal page introduction (portfolio) website with Github pages
 
 <!--more-->
