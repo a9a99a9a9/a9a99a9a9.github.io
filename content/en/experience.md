@@ -1,5 +1,5 @@
 ---
-title: '포트폴리오'
+title: 'Portfolio'
 date: 2023-10-24
 type: landing
 

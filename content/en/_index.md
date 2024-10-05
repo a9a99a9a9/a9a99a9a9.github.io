@@ -36,20 +36,20 @@ sections:
       subtitle: ''
       text: |-
         
-        안녕하세요. 저는 황도훈입니다.
+        Hello, I'm Hwang Do Hoon.
         
-        전북대학교에 재학 중이며 국제이공학부와 컴퓨터인공지능학부를 복수 전공 하고 있습니다.
-        Kotlin, C, C++, SQL, Node.js, Flutter 를 사용해 본 적이 있습니다.
+        I am a student at Chonbuk National University and have a double major in the Department of International Science and Engineering and Computer Artificial Intelligence.
+        I've used Kotlin, C, C++, SQL, Node.js, Flutter.
 
-        옷과 책을 좋아하여 옷에 책 문화를 녹인 'Ohread'라는 복합 패션 브랜드를 운영하고 있습니다.
+        We run a complex fashion brand called 'Ohread', which likes clothes and books and melts book culture into clothes.
 
-        패션 유튜브 회사에서 영상 기획자로 일하며 컨텐츠 기획, 영상 기획, 촬영 보조 등을 경험 하였습니다.
+        I worked as a video planner at a fashion YouTube company and experienced content planning, video planning, and filming assistance.
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: 수강중인 과목들
+      title: subjects in class
       filters:
         folders:
           - publication
@@ -59,7 +59,7 @@ sections:
       columns: 3
   - block: collection
     content:
-      title: 수업 관련 링크
+      title: class-related links
       text: ""
       filters:
         folders:
@@ -70,7 +70,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: 동아리
+      title: Club
       filters:
         folders:
           - event

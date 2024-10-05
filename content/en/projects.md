@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: 프로젝트
-      text: 수업 중 참여한 프로젝트들
+      title: Projects
+      text: projects participated in during the class
       filters:
         folders:
           - project

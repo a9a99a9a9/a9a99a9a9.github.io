@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: 프로젝트
-      text: 논 코딩 프로젝트들
+      title: Projects
+      text: Non Coding Projects
       filters:
         folders:
           - nocoding
