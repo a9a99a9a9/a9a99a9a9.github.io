@@ -4,6 +4,8 @@ title: "Hwang Dohoon homepage"
 date: 2022-10-24
 type: landing
 
+og_image: "/images/11.JPG"
+
 design:
   # Default section spacing
   spacing: "6rem"
