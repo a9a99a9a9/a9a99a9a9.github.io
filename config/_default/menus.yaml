@@ -17,8 +17,16 @@ main:
     url: experience/
     weight: 20
   - name: Projects
-    url: projects/
     weight: 30
+    hasChildren: true
+  - parent: Projects
+    name: Projects 1
+    url: project1/
+    weight: 1
+  - parent: Projects
+    name: Projects 2
+    url: project2/
+    weight: 2
   - name: Location
     url: location/
     weight: 30
