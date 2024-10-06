@@ -21,7 +21,7 @@ abstract: 스킨스쿠버 동아리 바다사랑은 1984년에 창설된 전북�
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-# dddate: '2019-03-01T00:00:00Z'
+date: '2019-03-01T00:00:00Z'
 
 tags: []
 
